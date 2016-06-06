@@ -24,6 +24,8 @@ namespace CSharpWrapper
             string originalStr = string.Empty;
             try
             {
+                // Vungle SDK reply on XAML framework directly, so it is important that the XAML view hierachy is set properly.
+                // Vungle SDK will check this and if not, will throw below exception.
                 var test = Windows.UI.Xaml.Application.Current;
             }
             catch (Exception e)
