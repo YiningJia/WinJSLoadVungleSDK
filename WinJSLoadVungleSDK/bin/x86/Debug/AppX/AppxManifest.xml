@@ -38,14 +38,6 @@
       <InProcessServer>
         <Path>UWPShim.exe</Path>
         <ActivatableClass ActivatableClassId="CSharpWrapper.CSharpBridge" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.AdFactory" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.AdEndEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.DiagnosticLogEvent" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.AdPlayableEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.VungleSDKConfig" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.AdEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.AdConfig" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="VungleSDK.AdViewEventArgs" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>

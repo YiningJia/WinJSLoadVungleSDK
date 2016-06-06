@@ -34,7 +34,7 @@
 	}
 
 	function vungleSDKButtonHandler(eventInfo) {
-	    this.vungleSDK = new CSharpWrapper.CSharpBridge().callVungleSDK();
+	    document.getElementById("callVungelSDKInput").innerText = new CSharpWrapper.CSharpBridge().callVungleSDK();
 	}
 
 	app.start();

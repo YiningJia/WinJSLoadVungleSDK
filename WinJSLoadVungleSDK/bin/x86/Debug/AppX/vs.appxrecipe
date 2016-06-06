@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>b60a56a2-82b8-4801-96ed-d3cb45cf2e54</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\bld\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>A6A1269BF14DFC6300304E5771E2D024BBE1A78B2A93529A64697F26B1C9A152</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>C187F36805AF3954B0C3BE6ACACD00DE8197FA517FD1C72C1F28483FE00B3945</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>b60a56a2-82b8-4801-96ed-d3cb45cf2e54_1.0.0.0_x86__k3c6zeb06vb62</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>b60a56a2-82b8-4801-96ed-d3cb45cf2e54_k3c6zeb06vb62!App</RegisteredUserModeAppID>
     <RegisteredPackageID>b60a56a2-82b8-4801-96ed-d3cb45cf2e54</RegisteredPackageID>
@@ -22,17 +22,13 @@
     <AppXManifest Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-24T07:42:49.352</Modified>
+      <Modified>2016-06-06T04:21:32.964</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\CSharpWrapper\bin\x86\Debug\CSharpWrapper.winmd">
       <PackagePath>CSharpWrapper.winmd</PackagePath>
-      <Modified>2016-05-24T07:42:47.034</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\CSharpWrapper\bin\x86\Debug\VungleSDK.winmd">
-      <PackagePath>VungleSDK.winmd</PackagePath>
-      <Modified>2016-03-30T12:47:40.000</Modified>
+      <Modified>2016-06-06T04:20:37.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\default.html">
       <PackagePath>default.html</PackagePath>
@@ -74,7 +70,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2016-05-24T07:23:31.406</Modified>
+      <Modified>2016-06-06T04:21:31.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\WinJS\js\en-US\ui.strings.js">
       <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
@@ -522,7 +518,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\bin\x86\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-05-24T07:01:17.566</Modified>
+      <Modified>2016-06-06T04:12:38.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\bin\x86\Debug\Core\UWPShim.exe">
       <PackagePath>UWPShim.exe</PackagePath>

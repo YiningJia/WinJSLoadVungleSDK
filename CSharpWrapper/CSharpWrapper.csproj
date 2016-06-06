@@ -111,11 +111,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\CSharpWrapper.rd.xml" />
   </ItemGroup>
-  <ItemGroup>
-    <Reference Include="VungleSDK">
-      <HintPath>win10\VungleSDK.winmd</HintPath>
-    </Reference>
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

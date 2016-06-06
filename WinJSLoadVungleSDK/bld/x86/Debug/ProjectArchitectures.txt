@@ -1,2 +1,0 @@
-C:\Users\Yining\Desktop\WinJSLoadVungleSDK\CSharpWrapper\CSharpWrapper.csproj;x86
-C:\Users\Yining\Desktop\WinJSLoadVungleSDK\WinJSLoadVungleSDK\WinJSLoadVungleSDK.jsproj;x86
